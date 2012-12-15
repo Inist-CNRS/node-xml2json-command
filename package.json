@@ -1,8 +1,18 @@
 {
   "name": "xml2json",
   "version": "0.0.1",
+  "author": "François Parmentier",
+  "contributors": [],
   "description": "Convert an XML input to a JSON output, using xml-mapping",
+  "tags": [
+    "xml",
+    "json",
+    "xml2json"
+  ],
+  "homepage": "https://github.com/parmentf/xml2json",
+  "main": "./xml2json.js",
   "dependencies": {
     "xml-mapping": "1.0.x"
-  }
+  },
+  "preferGlobal": true
 }
