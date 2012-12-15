@@ -1,0 +1,8 @@
+{
+  "name": "xml2json",
+  "version": "0.0.1",
+  "description": "Convert an XML input to a JSON output, using xml-mapping",
+  "dependencies": {
+    "xml-mapping": "1.0.x"
+  }
+}

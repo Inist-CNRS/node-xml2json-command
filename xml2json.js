@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var xm = require('xml-mapping');
 var util = require('util');
 
