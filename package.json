@@ -1,18 +1,28 @@
 {
-  "name": "xml2json",
-  "version": "0.0.1",
-  "author": "François Parmentier",
-  "contributors": [],
+  "name": "xml2json-command",
+  "version": "0.0.2",
   "description": "Convert an XML input to a JSON output, using xml-mapping",
-  "tags": [
+  "main": "xml2json.js",
+  "bin": { "xml2json": "bin.js" },
+  "preferGlobal": true,
+  "dependencies": {
+    "xml-mapping": "1.0.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/parmentf/xml2json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parmentf/xml2json.git"
+  },
+  "keywords": [
     "xml",
     "json",
     "xml2json"
   ],
-  "homepage": "https://github.com/parmentf/xml2json",
-  "main": "./xml2json.js",
-  "dependencies": {
-    "xml-mapping": "1.0.x"
-  },
-  "preferGlobal": true
+  "author": "François Parmentier",
+  "license": "MIT",
+  "readmeFilename": "README.md"
 }
