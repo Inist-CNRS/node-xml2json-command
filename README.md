@@ -22,7 +22,7 @@ Get the source code, then install dependency, using [npm](http://npmjs.org):
 ## License
 (The MIT License)
 
-Copyright 2012 BugLabs. All rights reserved.
+Copyright 2012 François Parmentier. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
