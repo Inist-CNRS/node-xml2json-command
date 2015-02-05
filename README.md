@@ -6,9 +6,15 @@ module.
 
 ## Installation
 
-Get the source code, then install dependency, using [npm](http://npmjs.org):
+Use [npm](http://npmjs.org):
 
-    $ npm install xml2json-command
+    $ npm install -g xml2json-command
+
+Or you can get the source code, then install dependency, using
+
+    $ npm install -g
+
+from the source directory.
 
 ## Usage
 
