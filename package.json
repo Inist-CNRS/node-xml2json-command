@@ -1,9 +1,11 @@
 {
   "name": "xml2json-command",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert an XML input to a JSON output, using xml-mapping",
   "main": "xml2json.js",
-  "bin": { "xml2json": "bin.js" },
+  "bin": {
+    "xml2json": "bin.js"
+  },
   "preferGlobal": true,
   "dependencies": {
     "xml-mapping": "1.0.x"
