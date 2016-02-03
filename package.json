@@ -12,10 +12,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/parmentf/xml2json",
+  "homepage": "https://github.com/Inist-CNRS/node-xml2json-command",
   "repository": {
     "type": "git",
-    "url": "https://github.com/parmentf/xml2json.git"
+    "url": "https://github.com/Inist-CNRS/node-xml2json-command.git"
   },
   "keywords": [
     "xml",
